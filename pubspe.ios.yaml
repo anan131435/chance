@@ -59,7 +59,7 @@ dependencies:
   json_path: ^0.0.1
   uuid: ^2.0.4
   floor: ^0.13.0
-  oktoast: ^2.3.2
+  oktoast: 3.4.0
   pull_to_refresh: ^1.5.8
   shimmer: ^1.1.1
   fast_gbk: ^0.1.2+1
